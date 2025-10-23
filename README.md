@@ -1,5 +1,5 @@
 # CVD-prediction-ensemble
-An Analysis of Ensemble Learning (Random Forest, Balanced Bagging and Gradient Boosting) and Neural Networks (DNN) for Cardiovascular Disease (CVD) Risk Prediction 
+An Analysis of Ensemble Learning (Random Forest, Balanced Bagging and Gradient Boosting) for Cardiovascular Disease (CVD) Risk Prediction 
 
 Cardiovascular disease (CVD) is the leading chronic illness and primary cause of morbidity and mortality globally (Li et al., 2024). This stresses the need for strong predictive models to aid and enhance clinical decision-making systems. This analysis presents a systematic process to develop and evaluate machine learning models for CVD risk prediction using a real-world dataset, with an emphasis on clarity, reproducibility, and evidence-based procedures.
 The dataset consists of medical information of more than 70,000 individuals with features including age, gender, height, weight, systolic and diastolic blood pressure (ap_hi, ap_lo), cholesterol, glucose, lifestyle factors (smoke, alco, active), and the CVD outcome(cardio).
