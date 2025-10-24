@@ -1,4 +1,4 @@
-# CVD-prediction-ensemble
+# CVD-prediction-ensemble (Classification Project)
 An Analysis of Ensemble Learning (Random Forest, Balanced Bagging and Gradient Boosting) for Cardiovascular Disease (CVD) Risk Prediction 
 
 Cardiovascular disease (CVD) is the leading chronic illness and primary cause of morbidity and mortality globally (Li et al., 2024). This stresses the need for strong predictive models to aid and enhance clinical decision-making systems. This analysis presents a systematic process to develop and evaluate machine learning models for CVD risk prediction using a real-world dataset, with an emphasis on clarity, reproducibility, and evidence-based procedures.
